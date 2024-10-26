@@ -1,0 +1,7 @@
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\bin\Debug\inhertince class car truck.exe.config
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\bin\Debug\inhertince class car truck.exe
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\bin\Debug\inhertince class car truck.pdb
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\obj\Debug\inhertince class car truck.csproj.AssemblyReference.cache
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\obj\Debug\inhertince class car truck.csproj.CoreCompileInputs.cache
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\obj\Debug\inhertince class car truck.exe
+D:\visual studio 2022\inhertince class car truck\inhertince class car truck\obj\Debug\inhertince class car truck.pdb
